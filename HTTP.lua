@@ -18,14 +18,4 @@ end
 --for running URLs the second time
 HTTP_execute("")--url data here
 
-
-
-
-
-
-
-
-
-
-
 --made by speed softwares (speedsterkawaii aka clxify)
